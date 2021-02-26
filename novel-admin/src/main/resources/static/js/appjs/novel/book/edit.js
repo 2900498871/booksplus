@@ -96,8 +96,8 @@ function validateRule() {
     $("#signupForm").validate({
         ignore: "",
         rules: {
-                                                                                                                                                                                                                                                                                                                                                                                                    },
+                                                                                                                                                                                                                                                                                                                            },
     messages: {
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    }
 })
 }
